@@ -1,4 +1,4 @@
-# Задания для RS School 2020 Q1
- - English For Kids: https://english-for-kids.sevendc.pro/
- - Movie Search: https://sevendice-movie-search.netlify.app/
- - Fancy Weather: https://sevendice-fancy-weather.netlify.app/
+# CI/CD with GitHub, Travis CI and Heroku
+ - YouTube: https://youtu.be/EnvISXN9ZGA
+ - Reveal Presentation: https://sevendice-presentation.netlify.app/
+ - Presentation Transcript: https://cloud.sevendc.pro/s/PA5LNNyZ898KHtm
