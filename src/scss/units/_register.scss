@@ -1,0 +1,19 @@
+.skin-light .register-form,
+.skin-light .logout-form {
+  max-width: 30rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.skin-light .logout-form {
+  display: none;
+}
+
+.skin-light .register-form .form-check {
+  padding-left: 0;
+}
+
+.skin-light .md-form.md-outline .form-control.is-valid,
+.skin-light .md-form.md-outline .form-control.is-invalid {
+  background-position: right calc(.375em + .1875rem) center !important;
+}
