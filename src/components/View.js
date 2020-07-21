@@ -81,6 +81,8 @@ export default class Layout {
     this.body = document.body;
     this.isLangListExpand = false;
   }
+  
+  // <li data-lang-val="be" data-action="switchLang">by</li>
 
   controlsRender() {
     const markup = `
@@ -92,7 +94,7 @@ export default class Layout {
             <button class="btn-controls btn-controls_lang" data-lang-val="en" data-action="expandLangMenu">en</button>
             <div class="expand-list-container">
               <ul class="lang-list">
-                <li data-lang-val="be" data-action="switchLang">by</li>
+                
                 <li data-lang-val="ru" data-action="switchLang">ru</li>
               </ul>
             </div>
